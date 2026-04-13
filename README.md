@@ -1,4 +1,5 @@
 🔹 STOCK PROFIT/LOSS EVALUATOR IN PYTHON
+
 “This Stock Profit/Loss Calculator is a Python program that enables users to track and analyze their stock trading performance. The application accepts inputs such as stock name, buying price, selling price, and quantity for multiple trades. It then computes the profit or loss for each stock and provides a final summary of total gains or losses.
 
 **Features:**
